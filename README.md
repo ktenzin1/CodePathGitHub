@@ -37,7 +37,7 @@ My favorite apps:
 An app that I have on my mind is a platform where users can make journal entries in any fashion. Users can have the ability to keep it private and make it like a diary or be able to share their writings with other people. There would be a date and time of when it was written. Users can use various templates or design their own to get creative. People can describe their feelings and emotions in writing. It can be a way to improve self expression. The mainstream social media platforms have been built to share photos and videos. I would like my app to be able to have a social media version as well where users can share meaningful writings. Words can have deep impact. Words can uplift and provide emotional support to others. Words help us communicate and reinforces the sense of humanity. That is why people love peoms and beautiful writings. Writing is an art and art is beautiful. I want to create such an app that makes people appreciate the beauty of writing a little bit more. I want my app to make people happy.
             
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
 I had a little isue finding the right file to work on in Xcode. I wasnt able to locate storyboard on my Xcode. I simply played around with the app and figured out how to get the feature.
 
 ## License
